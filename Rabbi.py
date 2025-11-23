@@ -54,7 +54,7 @@ def mbanner():
   print("""
    Tools Name   : \033[1;32mFacebook ID Bruteforcer\033[1;37m
    Tools Author : \033[1;32mCYBER RABBI \033[1;37m
-   Github       : \033[1;32mgithub.com/STLP-TEAM\033[1;37m
+   Github       : \033[1;32mgithub.com/CYBER RABBI\033[1;37m
    Facebook     : \033[1;32mSpamming & Termux Learning Point\033[1;37m
   """)
 def menu():
@@ -71,16 +71,16 @@ def menu():
 def choose():
   a=input("\n\n   [>>>] Enter Your Option : ")
   if a=="1" or a=="01":
-    os.system("xdg-open https://facebook.com/groups/spamming.termux.learning.point/")
+    os.system("xdg-open https://www.facebook.com/tajulislamrabbi054/")
     pass
   elif a=="2" or a=="02":
-    os.system("xdg-open https://facebook.com/groups/spamming.termux.learning.point/")
+    os.system("xdg-open https://www.facebook.com/tajulislamrabbi054/")
     sys.exit()
   elif a=="3" or a=="03":
-    os.system("xdg-open https://facebook.com/spamming.termux.learning.point/")
+    os.system("xdg-open https://www.facebook.com/tajulislamrabbi054/")
     sys.exit()
   elif a=="4" or a=="04":
-    os.system("xdg-open https://github.com/STLP-TEAM?tab=repositories")
+    os.system("xdg-open https://www.facebook.com/tajulislamrabbi054/")
     sys.exit()
   elif a=="5" or a=="05":
     print(lines)
